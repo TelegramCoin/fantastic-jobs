@@ -67,6 +67,7 @@ For anyone else, not for me :)
 - [5 Mistakes Developers Make During the Job Hunt](http://blog.codeschool.io/2015/08/25/5-mistakes-developers-make-during-the-job-hunt/)
 - [interview-prep](https://github.com/ride/interview-prep)
 - [Hired fast](https://www.kokev.in/hired-fast)
+- [google-interview-university](https://github.com/jwasham/google-interview-university) A complete daily plan for studying to become a Google software engineer.
 
 ## Interviewer
 
