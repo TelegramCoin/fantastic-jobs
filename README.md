@@ -41,6 +41,7 @@ For anyone else, not for me :)
 - [Github Jobs](https://jobs.github.com/) job
 - [Crunch Board](http://www.crunchboard.com/jobs/) job
 - [Who is hiring](https://whoishiring.io/#!/) job, map
+- [easy-application](https://github.com/j-delaney/easy-application)
 
 # Agency
 
