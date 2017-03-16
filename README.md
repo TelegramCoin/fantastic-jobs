@@ -12,6 +12,7 @@ For anyone else, not for me :)
 - [Resume](#resume)
 - [Contract](#contract)
 - [Reading](#reading)
+        - [Newsletters](#newsletters)
 	- [Interviewee](#interviewee)
 	- [Interviewer](#interviewer)
 	- [Resume](#resume)
@@ -42,6 +43,7 @@ For anyone else, not for me :)
 - [Crunch Board](http://www.crunchboard.com/jobs/) job
 - [Who is hiring](https://whoishiring.io/#!/) job, map
 - [easy-application](https://github.com/j-delaney/easy-application)
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
 # Agency
 
@@ -59,6 +61,10 @@ For anyone else, not for me :)
 - [freelance-contract](https://github.com/ashedryden/freelance-contract) freelance
 
 # Reading
+
+## Newsletters
+
+- [On Hiring](https://www.getrevue.co/profile/hunglee)
 
 ## Interviewee
 
