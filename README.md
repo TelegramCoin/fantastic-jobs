@@ -43,7 +43,7 @@ For anyone else, not for me :)
 - [Crunch Board](http://www.crunchboard.com/jobs/) job
 - [Who is hiring](https://whoishiring.io/#!/) job, map
 - [easy-application](https://github.com/j-delaney/easy-application)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) :rocket:
 
 # Agency
 
