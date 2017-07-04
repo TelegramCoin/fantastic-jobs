@@ -73,7 +73,7 @@ For anyone else, not for me :)
 - [If you and every job candidate had identical resumes, what would you say/do at an interview to stand out?](https://www.quora.com/If-you-and-every-job-candidate-had-identical-resumes-what-would-you-say-do-at-an-interview-to-stand-out)
 - [5 Mistakes Developers Make During the Job Hunt](http://blog.codeschool.io/2015/08/25/5-mistakes-developers-make-during-the-job-hunt/)
 - [interview-prep](https://github.com/ride/interview-prep)
-- [Hired fast](https://www.kokev.in/hired-fast)
+- [Hired fast](https://www.kokev.in/hired-fast) :rocket:
 - [google-interview-university](https://github.com/jwasham/google-interview-university) A complete daily plan for studying to become a Google software engineer.
 - [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.w09m12mz5)
 - https://github.com/MaximAbramchuck/awesome-interview-questions :rocket:
