@@ -7,15 +7,13 @@ For anyone else, not for me :)
 # Contents
 
 - [Boards](#boards)
-- [Agency](#agency)
 - [Misc](#misc)
-- [Resume](#resume)
-- [Contract](#contract)
-- [Reading](#reading)
-        - [Newsletters](#newsletters)
-	- [Interviewee](#interviewee)
-	- [Interviewer](#interviewer)
-	- [Resume](#resume)
+  - [Salary](#salary)
+  - [Contract](#contract)
+  - [Resume](#resume)
+  - [Newsletters](#newsletters)
+  - [Interviewee](#interviewee)
+  - [Interviewer](#interviewer)
 
 # Boards
 
@@ -44,29 +42,32 @@ For anyone else, not for me :)
 - [Who is hiring](https://whoishiring.io/#!/) job, map
 - [easy-application](https://github.com/j-delaney/easy-application)
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) :rocket:
-
-# Agency
-
 - [Gigster](https://gigster.com/) freelance
 - [Toptal](http://www.toptal.com/) freelance
 
-# Resume Template
+## Misc
+
+### Salary
+
+- [Calculate your salary](https://stackoverflow.com/jobs/salary)
+
+### Contract
+
+- [freelance-contract](https://github.com/ashedryden/freelance-contract) freelance
+
+### Resume
 
 - [JSON Resume](http://jsonresume.org/) json
 - [markdown-resume](https://github.com/there4/markdown-resume) markdown
 - [Github resume](https://github.com/resume/resume.github.com) github
+- [8-minute resume: my guide to writing your resume effectively](https://rooting-for-you.cenedella.com/8-minute-resume-my-guide-to-writing-your-resume-effectively-3b0b117d94a#.rxfb6rbae)
+- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) Build fast and easy multiple beautiful resumes
 
-# Contract
-
-- [freelance-contract](https://github.com/ashedryden/freelance-contract) freelance
-
-# Reading
-
-## Newsletters
+### Newsletters
 
 - [On Hiring](https://www.getrevue.co/profile/hunglee)
 
-## Interviewee
+### Interviewee
 
 - [Recruiting Advice No One Tells You](https://medium.com/@drogier/recruiting-advice-no-one-tells-you-5ae6fb285d1)
 - [INTERVIEWING @ GOOGLE](http://www.catehuston.com/blog/2010/07/13/interviewing-google/)
@@ -79,7 +80,7 @@ For anyone else, not for me :)
 - https://github.com/MaximAbramchuck/awesome-interview-questions :rocket:
 - [Interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.
 
-## Interviewer
+### Interviewer
 
 - [This is why you never end up hiring good developers](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
 - [Effective Programing: More than writing code](http://www.amazon.com/Effective-Programming-More-Than-Writing-ebook/dp/B008HUMTO0) Hiring Programmers The Right Way
@@ -92,10 +93,6 @@ For anyone else, not for me :)
 - [Not another Android Interviews’ article: Think it through](https://medium.com/@neteinstein/not-another-android-interviews-article-think-it-through-7b6554bc23db#.7ps740ydd)
 - [Engineering Interview at Atlassian Sydney](https://www.youtube.com/watch?v=hP6Bnis8rsY)
 
-## Resume
-
-- [8-minute resume: my guide to writing your resume effectively](https://rooting-for-you.cenedella.com/8-minute-resume-my-guide-to-writing-your-resume-effectively-3b0b117d94a#.rxfb6rbae)
-- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) Build fast and easy multiple beautiful resumes
 
 Licence
 --
