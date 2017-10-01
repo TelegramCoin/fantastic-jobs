@@ -79,6 +79,7 @@ For anyone else, not for me :)
 - [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.w09m12mz5)
 - https://github.com/MaximAbramchuck/awesome-interview-questions :rocket:
 - [Interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) 💯 Technical and non-technical guide for rocking your coding interview.
 
 ### Interviewer
 
