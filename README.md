@@ -21,9 +21,9 @@ For anyone else, not for me :)
 - [Startup Jobs Asia](http://www.startupjobs.asia/site/latest) startup, asia
 - [Angel List](https://angel.co/jobs) startup
 - [We work remotely](https://weworkremotely.com/) remote
-- [Hacker News Who 's hiring](https://news.ycombinator.com/item?id=10822019) onsite, sponsor
+- [Hacker News Who 's hiring](https://news.ycombinator.com/item?id=10822019) onsite, sponsor :rocket:
 - [Core Intuition Jobs](http://jobs.coreint.org/) ios, mac
-- [Stackoverflow Career](http://careers.stackoverflow.com/) onsite, sponsor
+- [Stackoverflow Jobs](https://stackoverflow.com/jobs) onsite, sponsor :rocket:
 - [Breakout List](https://breakoutlist.com/) job
 - [Functional Jobs](https://functionaljobs.com/) functional
 - [Job Fusion](https://jobfusion.co/) job
