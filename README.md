@@ -52,6 +52,7 @@ For anyone else, not for me :)
 - [freelance-contract](https://github.com/ashedryden/freelance-contract) freelance
 - [On Hiring](https://www.getrevue.co/profile/hunglee
 - [When we only hire the best means we only hire the trendiest](https://danluu.com/programmer-moneyball/)
+- [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
 
 ### Salary
 
