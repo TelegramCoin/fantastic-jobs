@@ -47,13 +47,16 @@ For anyone else, not for me :)
 
 ## Misc
 
+### Posts
+
+- [freelance-contract](https://github.com/ashedryden/freelance-contract) freelance
+- [On Hiring](https://www.getrevue.co/profile/hunglee
+- [When we only hire the best means we only hire the trendiest](https://danluu.com/programmer-moneyball/)
+
 ### Salary
 
 - [Calculate your salary](https://stackoverflow.com/jobs/salary)
-
-### Contract
-
-- [freelance-contract](https://github.com/ashedryden/freelance-contract) freelance
+- [Fall 2015 Salary Detail](https://docs.google.com/spreadsheets/u/1/d/1UnLz40Our1Ids-O0sz26uPNCF6cQjwosrZQY4VLdflU/htmlview?pli=1&sle=true#)
 
 ### Resume
 
@@ -62,10 +65,6 @@ For anyone else, not for me :)
 - [Github resume](https://github.com/resume/resume.github.com) github
 - [8-minute resume: my guide to writing your resume effectively](https://rooting-for-you.cenedella.com/8-minute-resume-my-guide-to-writing-your-resume-effectively-3b0b117d94a#.rxfb6rbae)
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) Build fast and easy multiple beautiful resumes
-
-### Newsletters
-
-- [On Hiring](https://www.getrevue.co/profile/hunglee)
 
 ### Interviewee
 
