@@ -80,6 +80,8 @@ For anyone else, not for me :)
 - https://github.com/MaximAbramchuck/awesome-interview-questions :rocket:
 - [Interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) 💯 Technical and non-technical guide for rocking your coding interview.
+- [Software Engineering: Interviews](https://medium.com/@AndyyHope/software-engineering-interviews-744380f4f2af)
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 
 ### Interviewer
 
