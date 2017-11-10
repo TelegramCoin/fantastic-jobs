@@ -67,6 +67,12 @@ For anyone else, not for me :)
 - [8-minute resume: my guide to writing your resume effectively](https://rooting-for-you.cenedella.com/8-minute-resume-my-guide-to-writing-your-resume-effectively-3b0b117d94a#.rxfb6rbae)
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) Build fast and easy multiple beautiful resumes
 
+### Practice
+
+- [interviewing.io](https://interviewing.io/) Practice interviews with engineers from top companies, anonymously
+- [Pramp](https://www.pramp.com) Practice live technical interviews
+- [Byte by Byte](http://www.byte-by-byte.com/) Coding practice
+
 ### Interviewee
 
 - [Recruiting Advice No One Tells You](https://medium.com/@drogier/recruiting-advice-no-one-tells-you-5ae6fb285d1)
