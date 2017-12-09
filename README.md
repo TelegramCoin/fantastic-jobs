@@ -59,6 +59,8 @@ For anyone else, not for me :)
 
 - [Calculate your salary](https://stackoverflow.com/jobs/salary)
 - [Fall 2015 Salary Detail](https://docs.google.com/spreadsheets/u/1/d/1UnLz40Our1Ids-O0sz26uPNCF6cQjwosrZQY4VLdflU/htmlview?pli=1&sle=true#)
+- [Buffer's Transparent Salary Calculator](https://buffer.com/salary/product-manager/average)
+- [Startup Salary & Equity Share](https://angel.co/salaries)
 
 ### Resume
 
