@@ -76,6 +76,10 @@ For anyone else, not for me :)
 - [Pramp](https://www.pramp.com) Practice live technical interviews
 - [Byte by Byte](http://www.byte-by-byte.com/) Coding practice
 
+### Challenges
+
+- [GermanAutolabs iOS-coding-challenge](https://github.com/GermanAutolabs/iOS-coding-challenge) iOS coding challenge for German Autolabs
+
 ### Interviewee
 
 - [Recruiting Advice No One Tells You](https://medium.com/@drogier/recruiting-advice-no-one-tells-you-5ae6fb285d1)
