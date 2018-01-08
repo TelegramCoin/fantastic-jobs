@@ -1,6 +1,5 @@
 fantastic-jobs
 ==
-For anyone else, not for me :)
 
 > Jobs may come and go, but it’s the people I’ve worked with that I always remember
 
