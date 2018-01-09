@@ -61,6 +61,7 @@ fantastic-jobs
 - [Fall 2015 Salary Detail](https://docs.google.com/spreadsheets/u/1/d/1UnLz40Our1Ids-O0sz26uPNCF6cQjwosrZQY4VLdflU/htmlview?pli=1&sle=true#)
 - [Buffer's Transparent Salary Calculator](https://buffer.com/salary/product-manager/average)
 - [Startup Salary & Equity Share](https://angel.co/salaries)
+- [TripleByte salary data](https://triplebyte.com/software-engineer-salary)
 
 ### Resume
 
