@@ -70,6 +70,7 @@ fantastic-jobs
 - [Github resume](https://github.com/resume/resume.github.com) github
 - [8-minute resume: my guide to writing your resume effectively](https://rooting-for-you.cenedella.com/8-minute-resume-my-guide-to-writing-your-resume-effectively-3b0b117d94a#.rxfb6rbae)
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) Build fast and easy multiple beautiful resumes
+- [uses this interviews](https://usesthis.com/) What do people use to get the job done?
 
 ### Practice
 
