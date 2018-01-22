@@ -33,6 +33,7 @@ fantastic-jobs
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) :rocket:
 - [Gigster](https://gigster.com/) freelance
 - [Toptal](http://www.toptal.com/) freelance
+- [TripleByte](https://triplebyte.com/) freelance
 - [Jobs Moment](https://twitter.com/i/moments/808947827506352132)
 
 
