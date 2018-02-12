@@ -35,6 +35,7 @@ fantastic-jobs
 - [Toptal](http://www.toptal.com/) freelance
 - [TripleByte](https://triplebyte.com/) freelance
 - [Jobs Moment](https://twitter.com/i/moments/808947827506352132)
+- [Glassdoor](https://www.glassdoor.com/Job/norway-ios-jobs-SRCH_IL.0,6_IN180_KO7,10.htm)
 
 
 Licence
